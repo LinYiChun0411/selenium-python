@@ -8,7 +8,9 @@ pip3 install selenium
 
 #2. 安裝google-chrome
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
 sudo dpkg -i google-chrome-stable_current_amd64.deb
+
 **報錯誤時執行下列
 sudo apt-get install -f
 

@@ -1,4 +1,7 @@
-#以Linux debian9 環境安裝
+#windows 環境可直接執行
+
+#以Linux 環境安裝 需修改webdriver路徑
+ex: driver = webdriver.Chrome("/home/yichun/selenium-python/chromedriver")
 
 #1. 安裝selenium套件
 pip3 install selenium
